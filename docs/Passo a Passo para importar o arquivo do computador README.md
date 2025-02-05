@@ -1,4 +1,4 @@
-# 📋 Passo a Passo para importar o arquivo do computador
+# 📋 Passo a Passo para importar o arquivo do computador para o SQLite
 #### Acesse o SQLite Online
 Abra o navegador e vá para o site do SQLite Online ([sqliteonline.com](https://sqliteonline.com/)).
 Na interface inicial, você verá um editor SQL no lado direito e a estrutura de banco de dados no lado esquerdo.
