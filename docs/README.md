@@ -23,11 +23,10 @@ Na janela de importação, revise:
 
 Agora que a tabela pizzavendas foi importada com sucesso, você pode realizar a primeira consulta para visualizar os dados.  
 
-SELECT * FROM pizzavendas;
+SELECT * FROM pizzavendas;  
 
-##### O Que Esta Consulta Faz?
-"SELECT *": Seleciona todas as colunas da tabela. O símbolo * é usado para representar "todas as colunas disponíveis".
-"FROM" pizzavendas: Indica que os dados serão extraídos da tabela chamada pizzavendas.
+Após inserir o código no editor, selecione-o e clique em Run para executá-lo.
+Os resultados da consulta serão exibidos abaixo da área de edição.
 
 ##### 📌 Boa Prática
 Sempre use o ponto e vírgula (;) ao final de cada comando SQL, mesmo que seu SGBD não o exija.
