@@ -33,11 +33,6 @@ Selecione apenas as colunas necessárias:
 * Agrupe os Dados e Some os Valores:  
 Use GROUP BY para agrupar por tamanho de pizza e SUM para calcular o faturamento total:
 
-SELECT pizza_size, SUM(total_price) AS faturamento_total
-FROM pizzavendas
-WHERE order_date BETWEEN '2023-01-01' AND '2023-01-31'
-GROUP BY pizza_size;
-
 ##### Exemplo Completo
 
 SELECT pizza_size, SUM(total_price) AS faturamento_total
