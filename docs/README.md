@@ -1,10 +1,10 @@
-# 📋 Passo a Passo
+# 📋 Passo a Passo para importar o arquivo do computador
 #### Acesse o SQLite Online
 Abra o navegador e vá para o site do SQLite Online ([sqliteonline.com](https://sqliteonline.com/)).
 Na interface inicial, você verá um editor SQL no lado direito e a estrutura de banco de dados no lado esquerdo.
 
 #### Importe os Arquivos CSV
-Os arquivos devem estar organizados e salvos no seu computador.
+O arquivo devem estar organizado e salvo no seu computador.
 #### Utilize a Opção "Import"
 Na parte superior central da interface, localize a opção Import.
 * Clique em Import para abrir as opções de importação.
