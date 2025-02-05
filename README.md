@@ -2,11 +2,11 @@
 ## 🍕🍽️ Descrição do Projeto
 
 ### Análise de Vendas de Pizza com SQL.  
-<p style="text-align: justify;">
+
 Este projeto foi criado para compor um portfólio de SQL, utilizando um conjunto de dados da base do Kaggle: [Pizza Sales Dataset](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales?select=Data+Model+-+Pizza+Sales.xlsx) .  
 O objetivo principal é demonstrar habilidades em consultas analíticas e boas práticas de SQL, aplicadas a um cenário de negócios realista.  
 Com este projeto, é possível explorar e analisar os dados de vendas de pizza, permitindo a geração de insights valiosos para a gestão e operação de um restaurante. Este trabalho inclui desde a criação da estrutura do banco de dados até consultas que respondem a perguntas estratégicas sobre o negócio.
-</p>
+
 
 # 🎯 Objetivos
 * Organizar dados de vendas de pizza:  
